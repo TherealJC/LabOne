@@ -1,6 +1,7 @@
 # LabOne
 
-Repo for Lab One
+Repo for Lab One (Index.js contains my practice work from 2/3/20, example.js and randomtask.js are from  
+practising in class on 3/3/2020)
 
 WHAT HAVE I LEARNT?  
 : A LOT about using JavaScript, commands, how to make an index.js folder,  
