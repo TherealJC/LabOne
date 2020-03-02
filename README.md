@@ -49,3 +49,7 @@ research. This was resolved by using
 git config --global user.email "MyEmailHere"  
 Although now my question is, why does this occur ? Why do you need an Email ? Or did i go wrong somewhere ?
 
+After Tuesdays class, I have some new challenges that I faced:  
+We had quite a lot of trouble trying to figure out the brackets, we had our equation set out, but figuring out  
+where to actually put the brackets was a mystery, Me, Rory, and Kyren managed to kind of figure it out  
+but there is still confusion there, I will do more study on JS.
