@@ -96,3 +96,4 @@ console.log("Using the commas seems a lot nicer because of the yellow numbers")
 
 console.log("So is there a way to make the number show up yellow without using comma ?");
 
+//All of the above work was before learning about in line comments 
