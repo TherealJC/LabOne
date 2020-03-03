@@ -1,7 +1,9 @@
 # LabOne
 
 Repo for Lab One (Index.js contains my practice work from 2/3/20 AND what is
-required for lab one   
+required for lab one    
+  
+
 example.js and randomtask.js are from practising in class on 3/3/2020 and not 
 related to this lab.  
 I'm just using this as a practice page)
